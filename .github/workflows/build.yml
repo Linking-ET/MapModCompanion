@@ -23,6 +23,7 @@ on:
         required: false
       modrinth-token:
         required: false
+  workflow_dispatch:
 
 
 permissions:
